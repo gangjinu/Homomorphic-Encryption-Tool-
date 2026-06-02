@@ -122,8 +122,7 @@ docker-compose up -d
 MIT License
 
 ## 👥 Contributors
-
-- [Your Name]
+Ahsen Saleem
 
 ## 📧 Contact
 
